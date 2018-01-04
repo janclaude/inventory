@@ -1,0 +1,2 @@
+# inventory
+Basic inventory website
